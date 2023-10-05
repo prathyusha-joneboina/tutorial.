@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+h1 {
+    font-size: 10px;
+    text-align: left;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+    height: 260px;
+    width: 300px;
+}
+
+p {
+    color: white;
+    font-size: 10px;
+}
+
+button {
+    color: red;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+h2 {
+    color: white;
+    font-size: 10px;
+}
+
+.main-heading {
+    color: black;
+    font-size: 20px;
+}
+
+.main-paragraph {
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+    margin: 7px;
+}
+
+.paragraph {
+    text-align: right;
+}
+
+.subheading {
+    color: orange;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.Button {
+    background-color: orange;
+    color: white;
+    border: 20px;
+    text-align: center;
+}
+
+.courses {
+    background-color: grey;
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.study-image {
+    height: 150px;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.subParagraph {
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+}
+
+.sub-container {
+    height: 100px;
+    width: 150px;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+}
+.Message-Button{
+    text-align: center;
+    background-color: orange;
+    color: black;
+}
+.ContactSection{
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-width:5px;
+    border-radius: 5px;
+    
+}
+
+.Mobile-app-container {
+    background-color: grey;
+    height: 500px;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+}
